@@ -16,7 +16,7 @@ For more information, please consult the web site at http://www.hcii-lab.net/dat
 1. Install the apk to your Android phone and put the labeling files to the folder "<sdcard>/hciiTestAccuracy"
 Notice that the labeling files should be encoding by UTF-8
 2. Open the Android application, choose one labeling file and click the EditView so as to pop-up input method
-3. Edit ./EvaluateHandWritingAccuracy-PC/EvaluateHandWritingAccuracy.py.
+3. Edit ./PC/EvaluateHandWritingAccuracy.py.
 We are going to change some params before testing. All those params are defined in main function.
 Use the command "monkeyrunner <program_filename> " to run the python program.
 For more information about Monkeyrunner, please consult the web site at
