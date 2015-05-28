@@ -148,8 +148,8 @@ def main():
 	t2 = 1.2 # the number of seconds to pause when all points of a char have been sent
 	path = r'D:\pot\onHCCTestDB-SimpTradChar 2.pot'
 	timeout = 5
-	#we can use the command "adb devices" to query. see http://developer.android.com/tools/help/adb.html
-	#here, we  add two devices
+	#We can use the command "adb devices" to query. see http://developer.android.com/tools/help/adb.html
+	#Here, we add two devices. We strongly advise not to connect more than 2 mobile phones at the same time.
 	deviceID = []
 	deviceID.append('EIVKB6NJLVA6SGM7')
 	deviceID.append('GMKFTGONPNVOZ98L')
